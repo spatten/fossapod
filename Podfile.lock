@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Alamofire (5.2.2)
+  - Analytics (3.7.0)
+  - Bugly (2.5.5)
+
+DEPENDENCIES:
+  - AFNetworking (~> 4.0)
+  - Alamofire (~> 5.2)
+  - Analytics (= 3.7.0)
+  - Bugly
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Alamofire
+    - Analytics
+    - Bugly
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  Analytics: 77fd5fb102a4a5eedafa2c2b0245ceb7b7c15e45
+  Bugly: eded937bbb1f731cacf689c2d934ddbd9ab34f83
+
+PODFILE CHECKSUM: 5d2fea649dd3dcad761aab9801f88066c30692f1
+
+COCOAPODS: 1.9.3
