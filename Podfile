@@ -15,11 +15,9 @@ target 'Fossa_pod_test' do
   target 'Fossa_pod_testUITests' do
     # Pods for testing
 
-pod 'AFNetworking', '~> 4.0'
-pod 'Alamofire', '~> 5.2'
-pod 'Bugly'
-pod "Analytics", "3.7.0"
-
+    pod 'AFNetworking', '~> 4.0'
+    pod 'Alamofire', '~> 5.2'
+    pod 'Bugly'
+    pod 'Analytics', '3.7.0'
   end
-
 end
