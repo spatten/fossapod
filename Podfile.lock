@@ -17,12 +17,16 @@ PODS:
   - Alamofire (5.2.2)
   - Analytics (3.7.0)
   - Bugly (2.5.5)
+  - GoogleToolboxForMac/Defines (2.3.1)
+  - "GoogleToolboxForMac/NSData+zlib (2.3.1)":
+    - GoogleToolboxForMac/Defines (= 2.3.1)
 
 DEPENDENCIES:
   - AFNetworking (~> 4.0)
   - Alamofire (~> 5.2)
   - Analytics (= 3.7.0)
   - Bugly
+  - "GoogleToolboxForMac/NSData+zlib (= 2.3.1)"
 
 SPEC REPOS:
   trunk:
@@ -30,13 +34,15 @@ SPEC REPOS:
     - Alamofire
     - Analytics
     - Bugly
+    - GoogleToolboxForMac
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
   Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
   Analytics: 77fd5fb102a4a5eedafa2c2b0245ceb7b7c15e45
   Bugly: eded937bbb1f731cacf689c2d934ddbd9ab34f83
+  GoogleToolboxForMac: 471e0c05d39506e50e6398f46fa9a12ae0efeff9
 
-PODFILE CHECKSUM: 8ffaa53921118c82c079311cc8b129bc948135cf
+PODFILE CHECKSUM: c7d24bc8eb05a0f8f1b866750ce462f845319a99
 
 COCOAPODS: 1.10.1

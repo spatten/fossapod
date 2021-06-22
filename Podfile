@@ -19,5 +19,6 @@ target 'Fossa_pod_test' do
     pod 'Alamofire', '~> 5.2'
     pod 'Bugly'
     pod 'Analytics', '3.7.0'
+    pod 'GoogleToolboxForMac/NSData+zlib', '2.3.1'
   end
 end
